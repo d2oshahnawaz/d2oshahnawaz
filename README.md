@@ -1,6 +1,6 @@
-<!-- 🔥 HERO BANNER -->
+<!-- 🌌 DARK NEON ANIMATED BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/banner.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0A192F&height=220&section=header&text=Tech%20Education%20World™&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 👀 VISITOR COUNTER -->
@@ -22,27 +22,27 @@
 
 ---
 
-<!-- ⚡ ANIMATED TYPING -->
+<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Tech+for+Students;Full+Stack+Developer;AI+%7C+ML+Explorer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Tech+for+Students;Full+Stack+Developer;AI+%7C+ML+Explorer;Open+Source+Contributor" />
 </p>
 
 ---
 
-<!-- 🔥 DIVIDER -->
+<!-- 🌊 DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=header"/>
 
 ---
 
 ## 👀 About Me
 
-- 🎓 B.Tech CSE Graduate (GBPIET)
-- 🎓 M.Tech CSE Pursuing  
-- 🌱 Learning **Web Dev | AI | ML**
+- 🎓 B.Tech CSE Graduate (GBPIET)  
+- 🎓 M.Tech CSE (Pursuing)  
+- 🌱 Learning **Web Dev | AI | ML**  
 - 🔥 20+ Internships | 100+ Certifications  
-- 👨‍🏫 Mentored 100s of students  
+- 👨‍🏫 Mentored 100+ students  
 - 🌍 Built Tech Education World™ (16K+ learners)  
-- 🤝 Open for collaborations  
+- 🤝 Open for collaboration  
 
 ---
 
@@ -74,76 +74,39 @@
 
 </p>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/PowerBI-111?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-111?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/Canva-111?style=for-the-badge&logo=canva"/>
+<img src="https://img.shields.io/badge/Sora%20AI-111?style=for-the-badge"/>
+
+</p>
+
 ---
 
-<!-- 🔥 DIVIDER -->
+<!-- 🌊 DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer"/>
 
 ---
 
 ## 🧩 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-<h3>🎵 Emotion Music AI</h3>
-<p>Detects emotion & recommends songs</p>
+<p align="center">
 
 <a href="https://github.com/d2oshahnawaz/Emotion-based-music-system">
-<img src="https://img.shields.io/badge/View%20Code-00FFAA?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d2oshahnawaz&repo=Emotion-based-music-system&theme=tokyonight" />
 </a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Live%20Demo-111?style=for-the-badge"/>
-</a>
-</td>
-
-<td width="50%">
-<h3>🛒 Shopping Trends Analysis</h3>
-<p>Customer behavior insights</p>
 
 <a href="https://github.com/d2oshahnawaz/Identifying-Shopping-Trends-using-Data-Analysis">
-<img src="https://img.shields.io/badge/View%20Code-00FFAA?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d2oshahnawaz&repo=Identifying-Shopping-Trends-using-Data-Analysis&theme=tokyonight" />
 </a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Live%20Demo-111?style=for-the-badge"/>
-</a>
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-<h3>🖼️ Image Forgery Detection</h3>
-<p>Detects manipulated images</p>
 
 <a href="https://github.com/d2oshahnawaz/Image_Manipulation_Detection_System_Python">
-<img src="https://img.shields.io/badge/View%20Code-00FFAA?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d2oshahnawaz&repo=Image_Manipulation_Detection_System_Python&theme=tokyonight" />
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Live%20Demo-111?style=for-the-badge"/>
-</a>
-</td>
-
-<td width="50%">
-<h3>🌐 Portfolio Website</h3>
-<p>Personal + TEW website</p>
-
-<a href="https://github.com/d2oshahnawaz">
-<img src="https://img.shields.io/badge/View%20Projects-00FFAA?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Live%20Site-111?style=for-the-badge"/>
-</a>
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
@@ -156,11 +119,23 @@
 
 ---
 
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d2oshahnawaz&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohd-shahnawaz-645371205"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:d2oshahnawaz@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://www.linkedin.com/in/mohd-shahnawaz-645371205">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:d2oshahnawaz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
