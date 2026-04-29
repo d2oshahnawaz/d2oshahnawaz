@@ -29,7 +29,7 @@
   <a href="https://github.com/d2oshahnawaz"><img src="https://img.shields.io/github/followers/d2oshahnawaz?logo=github&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/mohd-shahnawaz-645371205"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:d2oshahnawaz@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="www.techeducationworld.tech"><img src="https://img.shields.io/badge/Join-TEW™-brightgreen?style=for-the-badge" /></a>
+  <a href="https://www.techeducationworld.tech"><img src="https://img.shields.io/badge/Join-TEW™-brightgreen?style=for-the-badge" /></a>
 </p>
 
 ---
