@@ -1,18 +1,25 @@
-"<!-- 🌟 MAIN TEW BRANDING BANNER -->
+<!-- 🔥 HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/banner.png" width="220px%" />
+  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/banner.png" width="100%" />
 </p>
 
-<!-- 💚 TEW LOGO CENTER -->
+<!-- 👨‍💻 PROFILE IMAGE -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1Ol5ccK511daGTVPEvg-niFfvCDfzyQDn" width="220px"/>
+  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/profile.png" width="150px" style="border-radius:50%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Mohd Shahnawaz</strong></h1>
+<h1 align="center">👋 Hi, I'm Mohd Shahnawaz</h1>
 
 <p align="center">
-  <b>Web Developer • Data Analyst • Tech Entrepreneur</b><br>
-  Founder & CEO of <b>Tech Education World™</b>  
+  🚀 Web Developer | 📊 Data Analyst | 🧠 AI Enthusiast <br>
+  👑 Founder & CEO of <b>Tech Education World™</b>
+</p>
+
+---
+
+<!-- ⚡ ANIMATED TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Tech+for+Students;Full+Stack+Developer;AI+%7C+ML+Explorer;Open+Source+Contributor" />
 </p>
 
 ---
