@@ -1,6 +1,6 @@
 <!-- 🌟 MAIN TEW BRANDING BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/banner.png" width="50%" />
+  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/banner.png" width="220px%" />
 </p>
 
 <!-- 💚 TEW LOGO CENTER -->
@@ -29,7 +29,7 @@
 
 <!-- ✨ NEON TEW HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/Tech Education World Banner.png" width="80%"/>
+  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/Tech Education World Banner.png" width="100%"/>
 </p>
 
 ---
