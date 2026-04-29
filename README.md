@@ -37,18 +37,16 @@
 ## 👀 About Me
 
 - 🎓 B.Tech CSE Graduate (GBPIET)  
-- 🎓 M.Tech CSE (Pursuing - CURAJ)  
-- 💡 Passionate about **AI, Web Development & Data Analytics**  
-- 🌱 Currently building skills in **Full Stack + Machine Learning**  
-- 🔥 Completed **20+ internships & 100+ certifications**  
-- 👨‍🏫 Mentored **100+ students in tech & career growth**  
-- 🌍 Built **Tech Education World™ with 16,000+ learners**  
-- 🚀 Focused on building **real-world impactful tech solutions**  
-- 🤝 Open to **internships, freelance & collaborations**
+- 🎓 M.Tech CSE (Pursuing)  
+- 🌱 Learning **Web Dev | AI | ML**  
+- 🔥 20+ Internships | 100+ Certifications  
+- 👨‍🏫 Mentored 100+ students  
+- 🌍 Built Tech Education World™ (16K+ learners)  
+- 🤝 Open for collaboration  
 
 ---
 
-## 🧰 Tech Arsenal
+## 🧰 Tech Stack
 
 <p align="center">
 
@@ -87,24 +85,6 @@
 
 ---
 
-### 🧠 Core Expertise
-
-<p align="center">
-`Data Analysis` • `Machine Learning` • `Full Stack Development` • `UI/UX Design` • `Problem Solving`
-</p>
-
----
-
-### 🏆 Achievements
-
-- 🚀 Built & scaled **Tech Education World™ (16K+ learners)**  
-- 🎯 Completed **100+ certifications across tech domains**  
-- 🧠 Delivered real-world ML & Data Analysis projects  
-- 📊 Hands-on experience with **Power BI dashboards & analytics**  
-- 🎨 Designed branding & UI for multiple tech platforms  
-
----
-
 <!-- 🌊 DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer"/>
 
@@ -112,41 +92,29 @@
 
 ## 🧩 Featured Projects
 
-### 🎵 Emotion-Based Music Recommendation System  
-➡️ **Python | TensorFlow | Streamlit**  
-- Real-time emotion detection using webcam  
-- AI-based music recommendation system  
-- Integrated ML model for prediction  
+<p align="center">
 
-🔗 https://github.com/d2oshahnawaz/Emotion-based-music-system  
+<a href="https://github.com/d2oshahnawaz/Emotion-based-music-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d2oshahnawaz&repo=Emotion-based-music-system&theme=tokyonight" />
+</a>
 
----
+<a href="https://github.com/d2oshahnawaz/Identifying-Shopping-Trends-using-Data-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d2oshahnawaz&repo=Identifying-Shopping-Trends-using-Data-Analysis&theme=tokyonight" />
+</a>
 
-### 🛒 Shopping Trends Analysis  
-➡️ **Python | Pandas | Matplotlib**  
-- Customer behavior & purchasing analysis  
-- Data visualization with insights  
+<a href="https://github.com/d2oshahnawaz/Image_Manipulation_Detection_System_Python">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d2oshahnawaz&repo=Image_Manipulation_Detection_System_Python&theme=tokyonight" />
+</a>
 
-🔗 https://github.com/d2oshahnawaz/Identifying-Shopping-Trends-using-Data-Analysis  
-
----
-
-### 🖼️ Image Forgery Detection  
-➡️ **Python | OpenCV | Machine Learning**  
-- Detects manipulated images  
-- Achieved **85%+ accuracy**  
-
-🔗 https://github.com/d2oshahnawaz/Image_Manipulation_Detection_System_Python  
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=d2oshahnawaz&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=d2oshahnawaz&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
 </p>
-
----
 
 ## 📈 GitHub Stats
 
