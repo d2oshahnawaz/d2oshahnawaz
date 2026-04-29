@@ -5,7 +5,7 @@
 
 <!-- 💚 TEW LOGO CENTER -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1Ol5ccK511daGTVPEvg-niFfvCDfzyQDn/view" width="220px"/>
+  <img src="https://drive.google.com/uc?export=view&id=1Ol5ccK511daGTVPEvg-niFfvCDfzyQDn" width="220px"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm <strong>Mohd Shahnawaz</strong></h1>
@@ -29,7 +29,7 @@
 
 <!-- ✨ NEON TEW HEADER -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1kzxqmU58venCK8jTmx370YA4vrEFKP-h/view" width="80%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1kzxqmU58venCK8jTmx370YA4vrEFKP-h" width="80%"/>
 </p>
 
 ---
