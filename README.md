@@ -1,6 +1,6 @@
 <!-- 🌟 MAIN TEW BRANDING BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/images/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/banner.png" width="100%" />
 </p>
 
 <!-- 💚 TEW LOGO CENTER -->
