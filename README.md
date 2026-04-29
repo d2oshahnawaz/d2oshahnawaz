@@ -29,7 +29,7 @@
 
 <!-- ✨ NEON TEW HEADER -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1kzxqmU58venCK8jTmx370YA4vrEFKP-h" width="80%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1QOSUCERbUMf4zwcuJlsoQOH_NoMvqC5L" width="80%"/>
 </p>
 
 ---
