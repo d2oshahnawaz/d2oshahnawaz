@@ -37,6 +37,7 @@
 ## 👀 About Me
 
 - 🎓 B.Tech CSE Graduate (GBPIET)
+- 🎓 M.Tech CSE Pursuing (CURAJ)
 - 🌱 Currently learning **Web Development, Machine Learning & Full Stack**
 - 🔥 Completed **20+ internships & 100+ certifications**
 - 👨‍🏫 Mentored **hundreds of students**
