@@ -1,6 +1,6 @@
-<!-- 🌌 HERO BANNER -->
+<!-- 🌌 DARK NEON ANIMATED BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/banner.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0A192F&height=220&section=header&text=Tech%20Education%20World™&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 👀 VISITOR COUNTER -->
@@ -24,13 +24,13 @@
 
 <!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFAA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Tech+for+Students;Full+Stack+Developer;AI+%7C+ML+Explorer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFAA&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+Tech+for+Students;Full+Stack+Developer;AI+%7C+ML+Explorer;Open+Source+Contributor" />
 </p>
 
 ---
 
 <!-- 🌊 DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=header"/>
 
 ---
 
@@ -38,71 +38,75 @@
 
 - 🎓 B.Tech CSE Graduate (GBPIET)  
 - 🎓 M.Tech CSE (Pursuing - CURAJ)  
-- 🌱 Exploring **Full Stack Development, AI & Machine Learning**  
+- 💡 Passionate about **AI, Web Development & Data Analytics**  
+- 🌱 Currently building skills in **Full Stack + Machine Learning**  
 - 🔥 Completed **20+ internships & 100+ certifications**  
-- 👨‍🏫 Mentored **hundreds of students across India**  
-- 🌍 Founder of Tech Education World™ with **16,000+ learners**  
-- 💡 Passionate about building **real-world impactful tech solutions**  
-- 🤝 Open to **collaborations, internships & freelance projects**
+- 👨‍🏫 Mentored **100+ students in tech & career growth**  
+- 🌍 Built **Tech Education World™ with 16,000+ learners**  
+- 🚀 Focused on building **real-world impactful tech solutions**  
+- 🤝 Open to **internships, freelance & collaborations**
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Arsenal
 
-### 🚀 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,sql" />
-</p>
 
-### ⚙️ Frameworks & Libraries
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-</p>
+<img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=00FFAA"/>
+<img src="https://img.shields.io/badge/C++-111?style=for-the-badge&logo=c%2B%2B&logoColor=00FFAA"/>
+<img src="https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=00FFAA"/>
+<img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=00FFAA"/>
+<img src="https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5&logoColor=00FFAA"/>
+<img src="https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css3&logoColor=00FFAA"/>
 
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
-  <img src="https://img.shields.io/badge/Sora%20AI-000000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OpenCV-111?style=for-the-badge&logo=opencv"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS%20Code-111?style=for-the-badge&logo=visualstudiocode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PowerBI-111?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-111?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/Canva-111?style=for-the-badge&logo=canva"/>
+<img src="https://img.shields.io/badge/Sora%20AI-111?style=for-the-badge"/>
+
+</p>
+
+---
 
 ### 🧠 Core Expertise
+
 <p align="center">
-`Data Analysis` • `Machine Learning` • `Web Development` • `UI/UX Design` • `Problem Solving`
+`Data Analysis` • `Machine Learning` • `Full Stack Development` • `UI/UX Design` • `Problem Solving`
 </p>
+
+---
+
+### 🏆 Achievements
+
+- 🚀 Built & scaled **Tech Education World™ (16K+ learners)**  
+- 🎯 Completed **100+ certifications across tech domains**  
+- 🧠 Delivered real-world ML & Data Analysis projects  
+- 📊 Hands-on experience with **Power BI dashboards & analytics**  
+- 🎨 Designed branding & UI for multiple tech platforms  
 
 ---
 
 <!-- 🌊 DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=90&section=footer"/>
-
----
-
-## 🏢 Experience
-
-### 👑 Founder & CEO — Tech Education World™ (2022–Present)
-- Built and scaled a learning platform with **16K+ active learners**
-- Organized **50+ workshops, webinars, hackathons & internships**
-- Developed TEW website, dashboards & learning systems  
-- Led branding, marketing & community growth strategies  
-
----
-
-### 🎨 Graphic Design Intern — FEB TECH IT SOLUTIONS (2025)
-- Created **social media creatives, banners & brand visuals**  
-- Used **Canva + AI tools** for fast production  
-
----
-
-### 📊 Data Analyst Intern — Tech Saksham (2024)
-- Performed **data cleaning, EDA & visualization using Python**  
-- Built dashboards in **Power BI**  
-- Delivered insights through capstone project  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=100&section=footer"/>
 
 ---
 
@@ -110,9 +114,9 @@
 
 ### 🎵 Emotion-Based Music Recommendation System  
 ➡️ **Python | TensorFlow | Streamlit**  
-- Real-time facial emotion detection  
-- Suggests songs based on mood  
-- Uses ML model for classification  
+- Real-time emotion detection using webcam  
+- AI-based music recommendation system  
+- Integrated ML model for prediction  
 
 🔗 https://github.com/d2oshahnawaz/Emotion-based-music-system  
 
@@ -120,15 +124,15 @@
 
 ### 🛒 Shopping Trends Analysis  
 ➡️ **Python | Pandas | Matplotlib**  
-- Analyzes customer purchase patterns  
-- Data visualization & insights  
+- Customer behavior & purchasing analysis  
+- Data visualization with insights  
 
 🔗 https://github.com/d2oshahnawaz/Identifying-Shopping-Trends-using-Data-Analysis  
 
 ---
 
 ### 🖼️ Image Forgery Detection  
-➡️ **Python | OpenCV | ML**  
+➡️ **Python | OpenCV | Machine Learning**  
 - Detects manipulated images  
 - Achieved **85%+ accuracy**  
 
@@ -161,11 +165,16 @@
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-📧 Email: **d2oshahnawaz@gmail.com**  
-🔗 LinkedIn: **mohd-shahnawaz-645371205**  
-🌍 Portfolio: **https://sites.google.com/view/mohdshahnawazportfolio**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohd-shahnawaz-645371205">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:d2oshahnawaz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
