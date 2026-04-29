@@ -12,7 +12,7 @@
 
 <p align="center">
   🚀 Web Developer | 📊 Data Analyst | 🧠 AI Enthusiast <br>
-  👑 Founder & CEO of <b>Tech Education World™</b>
+  👑 Founder & CEO of <b>Tech Education World ™</b>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 - 🌱 Currently learning **Web Development, Machine Learning & Full Stack**
 - 🔥 Completed **20+ internships & 100+ certifications**
 - 👨‍🏫 Mentored **hundreds of students**
-- 🌍 Managing Tech Education World™ with **10,000+ learners**
+- 🌍 Managing Tech Education World ™ with **16,000+ learners**
 - 🤝 Love collaborating on **Web Dev, Python, ML, AI projects**
 
 ---
@@ -97,8 +97,8 @@ Leadership • Team Management • Public Speaking • Communication
 
 ## 🏢 Experience
 
-### 👑 Founder & CEO — Tech Education World™ (2022–Present)
-- Grew a learning platform with **10,000+ active learners**
+### 👑 Founder & CEO — Tech Education World ™ (2022–Present)
+- Grew a learning platform with **16,000+ active learners**
 - Conducted **50+ workshops, webinars, internship programs**
 - Built TEW website, portfolio & learning dashboards  
 - Managed branding, community & technical content
