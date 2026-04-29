@@ -36,7 +36,7 @@
 
 <!-- ✨ NEON TEW HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/TEW.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/d2oshahnawaz/d2oshahnawaz/main/TEL.png" width="100%"/>
 </p>
 
 ---
