@@ -16,8 +16,8 @@
 <h1 align="center">👋 Hi, I'm Mohd Shahnawaz</h1>
 
 <p align="center">
-  🚀 Web Developer | 📊 Data Analyst | 🧠 AI Enthusiast <br>
-  👑 Founder & CEO of <b>Tech Education World™</b>
+  Web Developer | Data Analyst | AI Enthusiast <br>
+  Founder & CEO of <b>Tech Education World ™</b>
 </p>
 
 ---
