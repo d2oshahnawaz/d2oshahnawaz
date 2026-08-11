@@ -1,70 +1,98 @@
+<!-- ========================================================= -->
+<!-- HEADER -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="./banner.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Mohd Shahnawaz</h1>
 
 <p align="center">
-Founder & CEO • Tech Education World™ <br>
-M.Tech CSE (Information Security) • Web Developer • AI & Cybersecurity Enthusiast
+Founder & CEO • Tech Education World™<br>
+M.Tech CSE (Information Security) • Web Developer • AI • Cybersecurity
 </p>
 
 <p align="center">
-<a href="https://komarev.com/ghpvc/?username=d2oshahnawaz">
-<img src="https://komarev.com/ghpvc/?username=d2oshahnawaz&style=flat-square&color=00C853"/>
+<a href="https://github.com/d2oshahnawaz">
+<img src="https://komarev.com/ghpvc/?username=d2oshahnawaz&style=for-the-badge&color=16a34a"/>
 </a>
 
-<a href="https://github.com/d2oshahnawaz">
-<img src="https://img.shields.io/github/followers/d2oshahnawaz?style=flat-square"/>
+<a href="https://github.com/d2oshahnawaz?tab=followers">
+<img src="https://img.shields.io/github/followers/d2oshahnawaz?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/d2oshahnawaz?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-24-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Repositories-24-success?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/d2oshahnawaz">
+<img src="https://img.shields.io/github/stars/d2oshahnawaz?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-# Profile
+<p align="center">
 
-Computer Science graduate currently pursuing **M.Tech in Computer Science (Information Security)**.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=850&color=00C853&lines=Welcome+to+my+GitHub;Founder+of+Tech+Education+World;Web+Developer;AI+%7C+Cybersecurity+Researcher;Open+Source+Learner"/>
 
-Founder of **Tech Education World™**, an educational platform focused on technology learning, internships and student communities.
+</p>
 
-Interested in
+---
+
+# About
+
+<table>
+<tr>
+
+<td width="68%">
+
+Computer Science graduate currently pursuing **M.Tech (Information Security)**.
+
+Founder of **Tech Education World™**, a learning platform helping students through workshops, internships and technical resources.
+
+### Areas of Interest
 
 - Artificial Intelligence
-- Machine Learning
 - Generative AI
+- LLM & RAG
 - Cybersecurity
 - Full Stack Development
 - Open Source
+
+</td>
+
+<td align="center">
+
+<img src="./profile.png" width="220"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # Technical Skills
 
-| Category | Technologies |
-|-----------|-------------|
-| Languages | Python, Java, C++, JavaScript, SQL |
-| Frontend | HTML5, CSS3, JavaScript |
-| Backend | FastAPI, Streamlit |
-| AI | TensorFlow, OpenCV |
-| Database | SQLite, MySQL |
-| Tools | Git, GitHub, VS Code, Canva, Power BI, Tableau |
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,html,css,react,nodejs,fastapi,mysql,sqlite,git,github,vscode,tensorflow,opencv"/>
+
+</p>
 
 ---
 
 # Experience
 
-### Tech Education World™
-
-Founder & CEO
-
-- Built an educational community
-- Conducted workshops & webinars
-- Managed internships
-- Built educational platforms
+| Position | Organization |
+|-----------|--------------|
+| Founder & CEO | Tech Education World™ |
+| Graphic Design Intern | FEB TECH IT Solutions |
+| Data Analyst Intern | Tech Saksham |
+| Campus Manager | TechLearn.live |
+| Student Partner | Internshala |
 
 ---
 
@@ -72,28 +100,58 @@ Founder & CEO
 
 | Project | Technology |
 |---------|------------|
-| AI Study Buddy | React, FastAPI, Gemini |
-| Secure Password Generator Vault | Python, Streamlit |
+| AI Study Buddy | React • FastAPI • Gemini |
+| Secure Password Generator Vault | Python • Streamlit |
 | Emotion Based Music System | TensorFlow |
 | Shopping Trends Analysis | Python |
 | TEW Chatbot | Python |
-| Inflamed Clothes | HTML CSS |
+| Inflamed Clothes | HTML • CSS • JavaScript |
 
 ---
 
-# GitHub Analytics
+# Repository Showcase
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=d2oshahnawaz&show_icons=true&theme=transparent&hide_border=true"/>
+<a href="https://github.com/d2oshahnawaz/AI-Study-Buddy">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=d2oshahnawaz&repo=AI-Study-Buddy&theme=transparent"/>
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2oshahnawaz&layout=compact&theme=transparent&hide_border=true"/>
+<a href="https://github.com/d2oshahnawaz/Secure-Password-Generator-Vault">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=d2oshahnawaz&repo=Secure-Password-Generator-Vault&theme=transparent"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/d2oshahnawaz/Emotion-based-music-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=d2oshahnawaz&repo=Emotion-based-music-system&theme=transparent"/>
+</a>
+
+<a href="https://github.com/d2oshahnawaz/Identifying-Shopping-Trends-using-Data-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=d2oshahnawaz&repo=Identifying-Shopping-Trends-using-Data-Analysis&theme=transparent"/>
+</a>
 
 </p>
 
 ---
 
-# Contact
+# GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=d2oshahnawaz&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d2oshahnawaz&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+> **Note:** Agar GitHub API limit hit ho jaye to stats temporarily load nahi honge. Refresh karne ya kuch der baad phir dekhne se theek ho jata hai.
+
+---
+
+# Connect
 
 | Platform | Link |
 |----------|------|
@@ -106,6 +164,6 @@ Founder & CEO
 
 <p align="center">
 
-Made with HTML • Markdown • GitHub
+Made with ❤️ using Markdown & GitHub
 
 </p>
